@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+project/target/streams/compile/compileIncSetup/
+project/target/streams/compile/compileOutputs/
+src/test/
